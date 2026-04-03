@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SquelchMap version="1" mono="true" instrument="ish-101-b" name="ISH-101 B">
+  <SampleZone note="26" lowKey="0" highKey="28" lowVel="1" highVel="37" sample="ISH-101 B-038 D1 025" gain="1.0"/>
+  <SampleZone note="26" lowKey="0" highKey="28" lowVel="38" highVel="62" sample="ISH-101 B-038 D1 050" gain="1.0"/>
+  <SampleZone note="26" lowKey="0" highKey="28" lowVel="63" highVel="87" sample="ISH-101 B-038 D1 075" gain="1.0"/>
+  <SampleZone note="26" lowKey="0" highKey="28" lowVel="88" highVel="127" sample="ISH-101 B-038 D1 100" gain="1.0"/>
+  <SampleZone note="30" lowKey="29" highKey="32" lowVel="1" highVel="37" sample="ISH-101 B-042 Gb1 025" gain="1.0"/>
+  <SampleZone note="30" lowKey="29" highKey="32" lowVel="38" highVel="62" sample="ISH-101 B-042 Gb1 050" gain="1.0"/>
+  <SampleZone note="30" lowKey="29" highKey="32" lowVel="63" highVel="87" sample="ISH-101 B-042 Gb1 075" gain="1.0"/>
+  <SampleZone note="30" lowKey="29" highKey="32" lowVel="88" highVel="127" sample="ISH-101 B-042 Gb1 100" gain="1.0"/>
+  <SampleZone note="34" lowKey="33" highKey="36" lowVel="1" highVel="37" sample="ISH-101 B-046 Bb1 025" gain="1.0"/>
+  <SampleZone note="34" lowKey="33" highKey="36" lowVel="38" highVel="62" sample="ISH-101 B-046 Bb1 050" gain="1.0"/>
+  <SampleZone note="34" lowKey="33" highKey="36" lowVel="63" highVel="87" sample="ISH-101 B-046 Bb1 075" gain="1.0"/>
+  <SampleZone note="34" lowKey="33" highKey="36" lowVel="88" highVel="127" sample="ISH-101 B-046 Bb1 100" gain="1.0"/>
+  <SampleZone note="38" lowKey="37" highKey="40" lowVel="1" highVel="37" sample="ISH-101 B-050 D2 025" gain="1.0"/>
+  <SampleZone note="38" lowKey="37" highKey="40" lowVel="38" highVel="62" sample="ISH-101 B-050 D2 050" gain="1.0"/>
+  <SampleZone note="38" lowKey="37" highKey="40" lowVel="63" highVel="87" sample="ISH-101 B-050 D2 075" gain="1.0"/>
+  <SampleZone note="38" lowKey="37" highKey="40" lowVel="88" highVel="127" sample="ISH-101 B-050 D2 100" gain="1.0"/>
+  <SampleZone note="42" lowKey="41" highKey="44" lowVel="1" highVel="37" sample="ISH-101 B-054 Gb2 025" gain="1.0"/>
+  <SampleZone note="42" lowKey="41" highKey="44" lowVel="38" highVel="62" sample="ISH-101 B-054 Gb2 050" gain="1.0"/>
+  <SampleZone note="42" lowKey="41" highKey="44" lowVel="63" highVel="87" sample="ISH-101 B-054 Gb2 075" gain="1.0"/>
+  <SampleZone note="42" lowKey="41" highKey="44" lowVel="88" highVel="127" sample="ISH-101 B-054 Gb2 100" gain="1.0"/>
+  <SampleZone note="46" lowKey="45" highKey="48" lowVel="1" highVel="37" sample="ISH-101 B-058 Bb2 025" gain="1.0"/>
+  <SampleZone note="46" lowKey="45" highKey="48" lowVel="38" highVel="62" sample="ISH-101 B-058 Bb2 050" gain="1.0"/>
+  <SampleZone note="46" lowKey="45" highKey="48" lowVel="63" highVel="87" sample="ISH-101 B-058 Bb2 075" gain="1.0"/>
+  <SampleZone note="46" lowKey="45" highKey="48" lowVel="88" highVel="127" sample="ISH-101 B-058 Bb2 100" gain="1.0"/>
+  <SampleZone note="50" lowKey="49" highKey="52" lowVel="1" highVel="37" sample="ISH-101 B-062 D3 025" gain="1.0"/>
+  <SampleZone note="50" lowKey="49" highKey="52" lowVel="38" highVel="62" sample="ISH-101 B-062 D3 050" gain="1.0"/>
+  <SampleZone note="50" lowKey="49" highKey="52" lowVel="63" highVel="87" sample="ISH-101 B-062 D3 075" gain="1.0"/>
+  <SampleZone note="50" lowKey="49" highKey="52" lowVel="88" highVel="127" sample="ISH-101 B-062 D3 100" gain="1.0"/>
+  <SampleZone note="54" lowKey="53" highKey="56" lowVel="1" highVel="37" sample="ISH-101 B-066 Gb3 025" gain="1.0"/>
+  <SampleZone note="54" lowKey="53" highKey="56" lowVel="38" highVel="62" sample="ISH-101 B-066 Gb3 050" gain="1.0"/>
+  <SampleZone note="54" lowKey="53" highKey="56" lowVel="63" highVel="87" sample="ISH-101 B-066 Gb3 075" gain="1.0"/>
+  <SampleZone note="54" lowKey="53" highKey="56" lowVel="88" highVel="127" sample="ISH-101 B-066 Gb3 100" gain="1.0"/>
+  <SampleZone note="58" lowKey="57" highKey="127" lowVel="1" highVel="37" sample="ISH-101 B-070 Bb3 025" gain="1.0"/>
+  <SampleZone note="58" lowKey="57" highKey="127" lowVel="38" highVel="62" sample="ISH-101 B-070 Bb3 050" gain="1.0"/>
+  <SampleZone note="58" lowKey="57" highKey="127" lowVel="63" highVel="87" sample="ISH-101 B-070 Bb3 075" gain="1.0"/>
+  <SampleZone note="58" lowKey="57" highKey="127" lowVel="88" highVel="127" sample="ISH-101 B-070 Bb3 100" gain="1.0"/>
+</SquelchMap>
